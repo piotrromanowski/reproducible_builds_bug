@@ -1,0 +1,2 @@
+build --experimental_strict_action_env
+build --distinct_host_configuration=true
